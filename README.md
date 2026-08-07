@@ -44,6 +44,7 @@ The goal is to turn raw sales data into actionable insights that support better 
 -Excel / PivotTables for data analysis
 - Charts for visualization: Monthly Revenue, Product Performance, Time Distribution
 
-- Project Description & Raw Data
+## Project Description & Raw Data
+raw csv file 
 
 
