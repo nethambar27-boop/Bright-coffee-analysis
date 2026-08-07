@@ -45,6 +45,6 @@ The goal is to turn raw sales data into actionable insights that support better 
 - Charts for visualization: Monthly Revenue, Product Performance, Time Distribution
 
 ## Project Description & Raw Data
-raw csv file 
+raw csv file https://github.com/nethambar27-boop/Bright-coffee-analysis/blob/main/1785257374032_Bright_Coffee_Shop_Sales%20(1).csv
 
 
