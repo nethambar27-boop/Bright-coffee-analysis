@@ -31,16 +31,19 @@ The goal is to turn raw sales data into actionable insights that support better 
 
 
 ### Marketing & Sales
-3. Promote Top Products: Run loyalty programs and social media campaigns focused on Coffee and Tea
-4. Bundle Strategy: Create "Morning Combo" and "Lunch Combo" deals to boost Baked Goods and Drinking Chocolate
-5. Revive Low Performers: Pair Loose Tea and Packaged Chocolate with best-sellers at a discount
+-Promote Top Products: Run loyalty programs and social media campaigns focused on Coffee and Tea
+- Bundle Strategy: Create "Morning Combo" and "Lunch Combo" deals to boost Baked Goods and Drinking Chocolate
+- Revive Low Performers: Pair Loose Tea and Packaged Chocolate with best-sellers at a discount
 
 ### Business Growth
-6. Track & Optimize: Monitor monthly revenue and hourly sales to adjust promotions and staffing in real-time
-7. Extend Peak Hours: Test small promotions in late afternoon to shift some demand from peak times
+- Track & Optimize: Monitor monthly revenue and hourly sales to adjust promotions and staffing in real-time
+- Extend Peak Hours: Test small promotions in late afternoon to shift some demand from peak times
 
 ## Tools Used
 -Data bricks
 -Excel / PivotTables for data analysis
 - Charts for visualization: Monthly Revenue, Product Performance, Time Distribution
+
+- Project Description & Raw Data
+
 
