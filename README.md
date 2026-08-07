@@ -49,6 +49,7 @@ raw csv file https://github.com/nethambar27-boop/Bright-coffee-analysis/blob/mai
 Project Description https://github.com/nethambar27-boop/Bright-coffee-analysis/blob/main/1785257321930_Bright_Coffee_Shop___Case_Study_Description.pdf
 
 ## Data Processing
+SQL Code File https://github.com/nethambar27-boop/Bright-coffee-analysis/blob/main/SQL%20SCRIPT.sql
 
 ## Project Presentation
 
