@@ -52,4 +52,4 @@ Project Description https://github.com/nethambar27-boop/Bright-coffee-analysis/b
 SQL Code File https://github.com/nethambar27-boop/Bright-coffee-analysis/blob/main/SQL%20SCRIPT.sql
 
 ## Project Presentation
-
+Final presentation https://github.com/nethambar27-boop/Bright-coffee-analysis/blob/main/Coffee%20Presentation.pdf
